@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LAN Tap.PcbDoc   2016/6/8  11:44:16
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LAN Tap-RoundHoles.TXT
+ASCII SquareHoles File : LAN Tap-SquareHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        35.43mil (0.89992mm)     Round          28               6.07 Inch (154.07 mm)
+T2        35.43mil (0.89992mm)     Square         4                2.75 Inch (69.90 mm)
+T3        59.06mil (1.50012mm)     Round          8                6.42 Inch (163.06 mm)
+T4        127.95mil (3.24993mm)    Round          8                5.39 Inch (136.98 mm)
+---------------------------------------------------------------------------
+Totals                                            48               20.63 Inch (524.01 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

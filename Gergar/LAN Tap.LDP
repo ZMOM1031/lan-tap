@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\admin\Documents\Hardware\LAN-Tap\Hardware\LAN Tap.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lan tap-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=lan tap-squareholes.txt|DrillLayers=gtl,gbl
